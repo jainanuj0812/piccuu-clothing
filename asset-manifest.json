@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/piccuu-clothing/static/css/main.6817627a.chunk.css",
-    "main.js": "/piccuu-clothing/static/js/main.514fe6e2.chunk.js",
-    "main.js.map": "/piccuu-clothing/static/js/main.514fe6e2.chunk.js.map",
+    "main.js": "/piccuu-clothing/static/js/main.59c96740.chunk.js",
+    "main.js.map": "/piccuu-clothing/static/js/main.59c96740.chunk.js.map",
     "runtime-main.js": "/piccuu-clothing/static/js/runtime-main.976fbc75.js",
     "runtime-main.js.map": "/piccuu-clothing/static/js/runtime-main.976fbc75.js.map",
     "static/js/2.a5d06386.chunk.js": "/piccuu-clothing/static/js/2.a5d06386.chunk.js",
     "static/js/2.a5d06386.chunk.js.map": "/piccuu-clothing/static/js/2.a5d06386.chunk.js.map",
     "index.html": "/piccuu-clothing/index.html",
-    "precache-manifest.7ad0582e943f908aac59dfdddb7cac93.js": "/piccuu-clothing/precache-manifest.7ad0582e943f908aac59dfdddb7cac93.js",
+    "precache-manifest.43261295c9d2503ca39e78e9aaeeb077.js": "/piccuu-clothing/precache-manifest.43261295c9d2503ca39e78e9aaeeb077.js",
     "service-worker.js": "/piccuu-clothing/service-worker.js",
     "static/css/main.6817627a.chunk.css.map": "/piccuu-clothing/static/css/main.6817627a.chunk.css.map",
     "static/js/2.a5d06386.chunk.js.LICENSE.txt": "/piccuu-clothing/static/js/2.a5d06386.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.976fbc75.js",
     "static/js/2.a5d06386.chunk.js",
     "static/css/main.6817627a.chunk.css",
-    "static/js/main.514fe6e2.chunk.js"
+    "static/js/main.59c96740.chunk.js"
   ]
 }

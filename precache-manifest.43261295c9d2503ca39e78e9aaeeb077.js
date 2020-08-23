@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6d8e55a2b598a95a47c7c60109643e59",
+    "revision": "c62c050b6c133b37be6c030f4ee88edb",
     "url": "/piccuu-clothing/index.html"
   },
   {
-    "revision": "2b1cde3b839e715bbb5b",
+    "revision": "1301ab87446f74f83bed",
     "url": "/piccuu-clothing/static/css/main.6817627a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/piccuu-clothing/static/js/2.a5d06386.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2b1cde3b839e715bbb5b",
-    "url": "/piccuu-clothing/static/js/main.514fe6e2.chunk.js"
+    "revision": "1301ab87446f74f83bed",
+    "url": "/piccuu-clothing/static/js/main.59c96740.chunk.js"
   },
   {
     "revision": "18383906ee9635532a50",
