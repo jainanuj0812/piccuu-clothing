@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/piccuu-clothing/precache-manifest.43261295c9d2503ca39e78e9aaeeb077.js"
+  "/piccuu-clothing/precache-manifest.170522bdba0bd6ca4b8a3fb7a3a77d30.js"
 );
 
 self.addEventListener('message', (event) => {
