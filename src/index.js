@@ -5,7 +5,7 @@ import './index.css';
 import App from './App';
 
 ReactDOM.render(
-  <BrowserRouter basename="/picuu-clothing">
+  <BrowserRouter basename="/piccuu-clothing">
     <App />
   </BrowserRouter>,
   document.getElementById('root')
